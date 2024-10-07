@@ -20,7 +20,7 @@ from PIL import Image
 # #V2
 # # Create a new 400x400 image
 img = Image.new("RGB", (400, 400))
-pixels = img.load()  # Allows you to modify individual pixels
+pixels = img.load()  # To modify individual pixels
 
 for y in range(400):
     

@@ -1,5 +1,6 @@
 # I will create an function for images to be selected at random and generated from a folder of images
 
+
 #i don't really know what i want to do for this project .. I feel a little uninspired to be create something here becus i'm not sure i understand the intention of the image generation
 #i've decided to ask Chat GPT, we've talked a bunch already so it pulls from many of the things we've already discussed abt myself and it gave me this visionary idea that blends past, present, and future. Elements that inspire my ideas of progress, of art, and of strategy.
 
